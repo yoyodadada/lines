@@ -3,13 +3,7 @@
    {
             "url": "http://dl.999888123.xyz/TV/TVBoxOSC/tvbox/api.json",
             "name": "天机阁"
-        },   
-   {
-            "url": "https://4708.kstore.space/tvbox/api.json",
-            "name": "拾光"
-        },
-
-              
+        },               
    {
             "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬线路"
@@ -21,22 +15,6 @@
         {
             "url": "http://肥猫.com",
             "name": "肥猫线路"
-        },   		
-        {
-            "url": "https://www.mpanso.com/小米/DEMO.json",
-            "name": "小米线路"
-        }, 
-       {
-            "url": "http://dl.999888123.xyz/wocaonidayede/tv2/TVBoxOSC/tvbox/api.json",
-            "name": "潇洒哥本地"
-        }, 
-      {
-            "url": "http://zhangqun1818.serv00.net/zq/1818.json",
-            "name": "澳洲老张"
-        },           
-        {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "摸鱼线路"
         }
     ]
 }
